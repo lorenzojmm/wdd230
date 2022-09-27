@@ -10,12 +10,15 @@
     background-color: #731D0A;    
     display: inline-block;
     border-radius: 25px;
+    border: 5px solid #262626;    
+
 }
 .header img {
     max-width: 20%;
     margin: 10px 5px;
-    border-radius: 25px;
-    border: 2px solid #3E5902;
+    border-radius: 15px 75px;
+    border: 5px solid #3E5902;    
+    margin-top: 15px;
 }
 .header h1 {
     color: #D9D8D7;
@@ -23,7 +26,10 @@
     font-size: 100px;
     margin-right: 50px;
     float: right;
-    border-radius: 15px 40px 25px;
+    border-radius: 15px 75px ;
+    padding:5px 30px;
+    border: 5px solid #262626;    
+
 
 }
 
@@ -37,6 +43,9 @@ main {
     width: 0 auto;
     font-family: 'Source Code Pro', monospace;
     background-color: #D9D8D7;
+    border-radius: 25px;
+
+
 }
 h2 p{
     color: #8C240D;
