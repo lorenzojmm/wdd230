@@ -1,0 +1,42 @@
+/* Color Theme Swatches in Hex */
+.Graphic-Design-1-hex { color: #3E5902; }
+.Graphic-Design-2-hex { color: #D9D8D7; }
+.Graphic-Design-3-hex { color: #8C240D; }
+.Graphic-Design-4-hex { color: #731D0A; }
+.Graphic-Design-5-hex { color: #262626; }
+
+
+.header {
+    background-color: #731D0A;    
+    display: inline-block;
+}
+.header img {
+    max-width: 20%;
+    margin: 10px 5px;
+}
+.header h1 {
+    color: #D9D8D7;
+    background-color: #8C240D;
+    font-size: 100px;
+    margin-right: 50px;
+}
+
+.title {
+    color: #3E5902;
+    text-decoration: double;
+}
+
+main {
+    text-align: center;
+    width: 0 auto;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #D9D8D7;
+}
+h2 {
+    color: #8C240D;
+    color: #262626;
+}
+
+.title_font {
+    font-family: 'Rubik Dirt', cursive;
+}
