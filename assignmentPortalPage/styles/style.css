@@ -9,10 +9,13 @@
 .header {
     background-color: #731D0A;    
     display: inline-block;
+    border-radius: 25px;
 }
 .header img {
     max-width: 20%;
     margin: 10px 5px;
+    border-radius: 25px;
+    border: 2px solid #3E5902;
 }
 .header h1 {
     color: #D9D8D7;
@@ -20,6 +23,8 @@
     font-size: 100px;
     margin-right: 50px;
     float: right;
+    border-radius: 15px 40px 25px;
+
 }
 
 .title {
