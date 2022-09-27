@@ -19,6 +19,7 @@
     background-color: #8C240D;
     font-size: 100px;
     margin-right: 50px;
+    float: right;
 }
 
 .title {
@@ -32,7 +33,7 @@ main {
     font-family: 'Source Code Pro', monospace;
     background-color: #D9D8D7;
 }
-h2 {
+h2 p{
     color: #8C240D;
     color: #262626;
 }
